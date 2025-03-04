@@ -5,7 +5,8 @@ function App() {
       <div>
         <iframe
           width="100%"
-          src="https://miro.com/app/embed/uXjVIXQc2nw=/?pres=1&frameId=3458764619273613184&embedId=779926906977"
+          src="https://miro.com/app/live-embed/uXjVIXQc2nw=/?moveToViewport=-237,-899,1625,2120&embedId=794641946735"
+          scrolling="no"
           allow="fullscreen; clipboard-read; clipboard-write"
         ></iframe>
       </div>
